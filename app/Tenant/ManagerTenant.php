@@ -20,4 +20,11 @@ class ManagerTenant {
     $tenant = $this->tenant();
     return $tenant->id;
   }
+
+  public function isSubdomainMain() {
+    $subdomain = $this->subdomain();
+    $subdomainMain = config('tenant.subdomain_main');
+
+    return $subdomain == $subdomainMain;
+  }
 }
