@@ -23,7 +23,7 @@ class TenantMiddleware
             return redirect()->route('tenant.404');
         }
 
-        $this->setSession($tenant->only('name'));
+        $this->setSession($tenant->only(['name', 'uuid']));
 
         return $next($request);
     }
