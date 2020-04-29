@@ -15,7 +15,7 @@ Basta fazer o clone do Repositório, e rodar o seguinte comando na raiz do repos
 
 > composer install
 
-Então, abra-o no seu editor de texto.
+Então, abra-o no seu editor de texto. 
 
 ## Referências
 
