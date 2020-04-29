@@ -1,6 +1,6 @@
 # Laravel Multi Tenancy Single Database
 
-Esse projeto se encontra no curso da Especializa TI
+Esse projeto se encontra no [curso da Especializa TI](https://www.especializati.com.br/curso-laravel-multi-tenancy-single-database), uma empresa que tem a missão de ajudar ao máximo cada pessoa que sonha em se tornar um(a) programador(a) acima da média.
 
 ## Sobre Multi Tenancy
 
