@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# laravel-multi-tenancy-single-database
-=======
 # Laravel Multi Tenancy Single Database
 
 Esse projeto se encontra no [curso da Especializa TI](https://www.especializati.com.br/curso-laravel-multi-tenancy-single-database), uma empresa que tem a missão de ajudar ao máximo cada pessoa que sonha em se tornar um(a) programador(a) acima da média.
@@ -23,4 +20,3 @@ Então, abra-o no seu editor de texto.
 ## Referências
 
 - [TreinaWeb - O que é uma Aplicação MultiTenant](https://www.treinaweb.com.br/blog/o-que-e-uma-aplicacao-multitenant/).
->>>>>>> 45bdf7240a4e680f74429d0d86c9f8230529c42e
