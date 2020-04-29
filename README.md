@@ -9,12 +9,14 @@ Pense no desenvolvimento de uma aplicação de gerência financeira, por exemplo
 
 ![Image](https://i.loli.net/2019/07/15/5d2c1d5bbce8d25924.png)
 
-## Sobre a Especializa TI
+## Getting Started
+
+Basta fazer o clone do Repositório, e rodar o seguinte comando na raiz do repositório:
+
+> composer install
+
+Então, abra-o no seu editor de texto.
 
 ## Referências
 
 - [TreinaWeb - O que é uma Aplicação MultiTenant](https://www.treinaweb.com.br/blog/o-que-e-uma-aplicacao-multitenant/).
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
